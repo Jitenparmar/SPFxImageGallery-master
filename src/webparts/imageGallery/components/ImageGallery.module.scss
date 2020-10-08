@@ -1,0 +1,17 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+
+.imageGallery {
+  .container {
+    max-width: none;
+  }
+
+  .center{
+    text-align: center;
+
+    h2{
+      color: grey;
+    }
+  }
+  
+  
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfxImageGallery",
+    "title": "SPFx Image Gallery",
+    "id": "c0c5969b-18bb-4226-ade3-77af0e63c5d8",
+    "version": "2.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-image-gallery.sppkg"
+  }
+}
